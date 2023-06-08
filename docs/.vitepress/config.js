@@ -1,7 +1,7 @@
 export default {
   title: '', // 标题
   description: '', // 介绍
-  // base: '/blog/', // 如果想用 https://xxx.github.io/blog/ 访问，那么这句话必填
+  base: '/cyn/', // 如果想用 https://xxx.github.io/blog/ 访问，那么这句话必填
   themeConfig: {
     logo: "", // 页面上显示的logo
     nav: [ // 页面右上角的导航
