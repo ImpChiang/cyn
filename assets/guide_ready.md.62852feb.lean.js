@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as a,O as t}from"./chunks/framework.cb0944e1.js";const u=JSON.parse('{"title":"准备工作","description":"","frontmatter":{},"headers":[],"relativePath":"guide/ready.md","filePath":"guide/ready.md"}'),o={name:"guide/ready.md"},l=t("",6),n=[l];function s(i,h,c,_,d,p){return a(),r("div",null,n)}const g=e(o,[["render",s]]);export{u as __pageData,g as default};
