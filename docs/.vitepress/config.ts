@@ -25,10 +25,26 @@ export default defineConfig({
         {
           text: "开始",
           items: [
-            { text: "准备工作", link: "/guide/ready" }
+            { text: "准备工作", link: "/guide/ready" },
+            { text: "开始", link: "/guide/start" },
+            { text: "与服务端交互", link: "/guide/axios" },
+            { text: "全局状态管理", link: "/guide/store" },
+            { text: "全局资源", link: "/guide/resources" }
           ]
         },
       ],
+      '/components/': [
+        {
+          text: '组件',
+          items: [
+            { text: '介绍', link: '/components/' },
+          ],
+        },
+        {
+          text: '公共组件',
+          items: []
+        }
+      ]
     },
     socialLinks: [
       { icon: "github", link: "https://github.com/ImpChiang/cyn.git" }
