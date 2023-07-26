@@ -1,1 +1,0 @@
-function l(t){return t&&t.__esModule&&Object.prototype.hasOwnProperty.call(t,"default")?t.default:t}const c=t=>(t.install=function(e){const{name:o}=t;e.component(o,t)},t),r=(t,e)=>{const o=t.__vccOpts||t;for(const[n,s]of e)o[n]=s;return o};export{r as _,l as g,c as w};
