@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.cb0944e1.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"components/dialog.md","filePath":"components/dialog.md"}'),a={name:"components/dialog.md"};function n(s,c,r,d,i,p){return o(),t("div")}const _=e(a,[["render",n]]);export{l as __pageData,_ as default};
