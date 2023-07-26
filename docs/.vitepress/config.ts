@@ -42,7 +42,12 @@ export default defineConfig({
         },
         {
           text: '公共组件',
-          items: []
+          items: [
+            { text: 'Dialog弹窗', link: '/components/dialog' },
+            { text: 'Table表格', link: '/components/table' },
+            { text: 'Form表单', link: '/components/form' },
+            { text: 'Upload上传', link: '/components/upload' }
+          ]
         }
       ]
     },
